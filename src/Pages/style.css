@@ -1,0 +1,31 @@
+.main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    grid-row-gap: 20px;
+    
+}
+.head1{
+    margin-left: 300px;
+    font-family: cursive;
+    color: aliceblue;
+}
+
+.head2,.head3,.head4,.head5{
+    color: aliceblue;
+}
+.list1,.list2,.list3,.list4{
+    font-family: bold;
+    font-size: 18px;
+}
+.footer{
+    height: 100px;
+    width: 1250px;
+   
+    color:white ;
+    align-items: right;
+}
+.about{
+    font-size: 20px;
+    font-family: verdana;
+}
